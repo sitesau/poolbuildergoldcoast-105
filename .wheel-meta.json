@@ -1,0 +1,22 @@
+{
+  "wheel_id": 836,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-105",
+  "project": "concrete-pool-builder-gold-coast-red-flags-8fccc710374d89837c9b",
+  "parent_t1_ref": "poolbuildergoldcoast-152",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast red flags",
+  "intended_url": "https://sitesau.github.io/poolbuildergoldcoast-105/",
+  "tier": "T2",
+  "writeback_nonce": "e0585abcab89e2cf",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/concrete-pool-builder-gold-coast-beginner-guide-679bf6153d18e1a/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
